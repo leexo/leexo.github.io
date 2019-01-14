@@ -1,1 +1,1 @@
-# leexo.githug.io
+# leexo.github.io
